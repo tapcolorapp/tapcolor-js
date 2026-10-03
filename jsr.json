@@ -1,5 +1,5 @@
 {
-  "name": "@tapcolor/api",
+  "name": "@tapcolorapp/api",
   "version": "1.0.0",
   "exports": "./src/index.ts",
   "publish": {
